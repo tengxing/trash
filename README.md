@@ -1,4 +1,6 @@
-##使用方法
+## 使用方法
 
-1 git clone 
-2 cat alias rm='sh ~/.trash/trash.sh' >>~/.bashrc
+```
+$ git clone https://github.com/tengxing/trash.git
+$ install_trash
+```
