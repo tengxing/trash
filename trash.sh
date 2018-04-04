@@ -1,7 +1,7 @@
 #!/bin/sh  
   
 date=`date +%F`                              #当前日期  
-path="/home/tengxing/.trash/"$date         
+path="~/.trash/"$date         
   
 if [ ! -d $path  ]; then         
       mkdir $path                            #创建一个目录  
