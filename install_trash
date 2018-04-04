@@ -1,1 +1,0 @@
-cat alias rm='sh ~/.trash/trash.sh' >>~/.bashrc
