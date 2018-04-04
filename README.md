@@ -1,1 +1,6 @@
-alias rm='sh /home/tengxing/.trash/trash.sh'
+## 使用方法
+
+```
+$ git clone https://github.com/tengxing/trash.git
+$ install_trash
+```
