@@ -1,10 +1,9 @@
 #!/bin/sh  
   
 date=`date +%F`
-cd
 base_path=${PWD#*/}
 
-path="/"$base_path"/.trash/"$date         
+path="/"$base_path"/"$date         
 echo path  
 if [ ! -d $path  ]; then         
       mkdir $path                            #创建一个目录  
