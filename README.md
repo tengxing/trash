@@ -2,5 +2,6 @@
 
 ```
 $ git clone https://github.com/tengxing/trash.git
-$ install_trash
+$ sh install.sh
+$ exit
 ```
